@@ -38,7 +38,7 @@ namespace Microsoft.BotBuilderSamples
             null,
             httpClient);
 
-            _logger.LogInformation("Calling QnA Maker");
+            _logger.LogInformation("Calling MSPInspire Bot");
 
             // The actual call to the QnA Maker service.
             var response = await qnaMaker.GetAnswersAsync(turnContext);
