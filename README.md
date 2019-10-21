@@ -1,14 +1,14 @@
-# QnA Maker service
-QnA Maker enables you to power a question and answer service from your semi-structured content.
+# MSFTStudentParnterInspireBot
+MSFTStudentParnterInspireBot was made to help students ask questions and get answers instantly from a bot, this removes the need for staff to constantly check the channels.
 
-One of the basic requirements in writing your own bot is to seed it with questions and answers. In many cases, the questions and answers already exist in content like FAQ URLs/documents, product manuals, etc. With QnA Maker, users can query your application in a natural, conversational manner. QnA Maker uses machine learning to extract relevant question-answer pairs from your content. It also uses powerful matching and ranking algorithms to provide the best possible match between the user query and the questions.
+I've set the bot up so that it is friendly in conversation, as most of the users are new to this environment, and want to be welcomed as opposed to being treated in such a professional or witty manner.
 
-# QnA Maker sample
-Bot Framework v4 QnA Maker bot sample with ASP.Net Core 2.
+# Version/Changelog
+1.0.0 with ASP.Net Core 2.
+ - Continous deployment set up, about 42 questions have been set up, along with setting up the personality of the bot.
 
 This bot has been created using [Microsoft Bot Framework][1], it shows how to create a bot that uses the [QnA Maker Cognitive AI][19] service.
 
-The [QnA Maker Service][19] enables you to build, train and publish a simple question and answer bot based on FAQ URLs, structured documents or editorial content in minutes. In this sample, we demonstrate how to use the QnA Maker service to answer questions based on the knowledge base used as input.
 
 # Prerequisites
 - Follow instructions [here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/set-up-qnamaker-service-azure)
