@@ -48,7 +48,7 @@ namespace Microsoft.BotBuilderSamples
             }
             else
             {
-                await turnContext.SendActivityAsync(MessageFactory.Text("No Student Parnter Inspire answers were found, try ask Salman and he can try implement this into the bot!"), cancellationToken);
+                await turnContext.SendActivityAsync(MessageFactory.Text("No Student Parnter Inspire answers were found, try ask SalmanMKC on twitter and he can try implement this into the bot!"), cancellationToken);
             }
         }
 
