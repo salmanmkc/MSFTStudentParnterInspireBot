@@ -9,6 +9,9 @@ I've set the bot up so that it is friendly in conversation, as most of the users
 
 This bot has been created using [Microsoft Bot Framework][1], it shows how to create a bot that uses the [QnA Maker Cognitive AI][19] service.
 
+# Request to test
+If you would like to test this bot drop a message to me and I will review it, it's for use within the MSP program so unless you are associated with it in anyway, the answer will most likely be no.
+
 
 # Prerequisites
 - Follow instructions [here](https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/set-up-qnamaker-service-azure)
